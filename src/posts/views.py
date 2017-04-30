@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
-from django.shortcuts import render, get_object_or_404
+from django.shortcuts import render, get_object_or_404, redirect
 from django.http import HttpResponse, HttpResponseRedirect
 
 from .models import Post
@@ -26,8 +26,10 @@ def posts_create(request):
 	}
 	return render(request, 'create_post.html', context)
 
-def posts_delete(request):
-	return HttpResponse("<h1>Delete!</h1>")
+def posts_delete(request, id):
+	post = get_object_or_404(Post, id = id)
+	post.delete()
+	return redirect('posts:display')
 
 def posts_update(request, id):
 	post = get_object_or_404(Post, id = id)
