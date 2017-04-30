@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 from django.shortcuts import render, get_object_or_404
-from django.http import HttpResponse
+from django.http import HttpResponse, HttpResponseRedirect
 
 from .models import Post
 from .forms import PostForm
@@ -19,6 +19,7 @@ def posts_create(request):
 	if form.is_valid():
 		form_instance = form.save(commit = False)
 		form_instance.save()
+		return HttpResponseRedirect(form_instance.get_absolute_url())
 
 	context = {
 		'form': form
@@ -34,6 +35,7 @@ def posts_update(request, id):
 	if form.is_valid():
 		instance = form.save(commit = False)
 		instance.save()
+		return HttpResponseRedirect(instance.get_absolute_url())
 	context = {
 		'post': post,
 		'title': post.title,
