@@ -2,7 +2,9 @@
 from __future__ import unicode_literals
 from django.shortcuts import render, get_object_or_404
 from django.http import HttpResponse
+
 from .models import Post
+from .forms import PostForm
 
 def posts_display(request):
 	posts = Post.objects.all()
@@ -13,7 +15,15 @@ def posts_display(request):
 	return render(request, 'index.html', context)
 
 def posts_create(request):
-	return HttpResponse("<h1>Create!</h1>")
+	form = PostForm(request.POST or None)
+	if form.is_valid():
+		form_instance = form.save(commit = False)
+		form_instance.save()
+
+	context = {
+		'form': form
+	}
+	return render(request, 'create_post.html', context)
 
 def posts_delete(request):
 	return HttpResponse("<h1>Delete!</h1>")
