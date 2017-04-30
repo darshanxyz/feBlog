@@ -12,7 +12,7 @@ def posts_display(request):
 		'title': 'Posts',
 		'posts': posts,
 	}
-	return render(request, 'index.html', context)
+	return render(request, 'post_display.html', context)
 
 def posts_create(request):
 	form = PostForm(request.POST or None)
