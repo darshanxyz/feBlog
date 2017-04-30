@@ -7,5 +7,5 @@ urlpatterns = [
     url(r'^create/$', views.posts_create, name = 'create'),
     url(r'^update/$', views.posts_update, name = 'update'),
     url(r'^delete/$', views.posts_delete, name = 'delete'),
-    url(r'^detail/$', views.post_detail, name = 'detail'),
+    url(r'^detail/(?P<id>\d+)/$', views.post_detail, name = 'detail'),
 ]
