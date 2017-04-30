@@ -1,7 +1,11 @@
 from django.conf.urls import url
 from django.contrib import admin
-from posts import views
+from . import views
 
 urlpatterns = [
-    url(r'^posts/$', views.posts_page, name = 'posts'),
+	url(r'^$', views.posts_display, name = 'display'),
+    url(r'^create/$', views.posts_create, name = 'create'),
+    url(r'^update/$', views.posts_update, name = 'update'),
+    url(r'^delete/$', views.posts_delete, name = 'delete'),
+    url(r'^detail/$', views.post_detail, name = 'detail'),
 ]
