@@ -6,7 +6,7 @@
 <body>
 <h1>Post Display</h1>
 {% for post in posts %}
-	{{ post.title }}
+	<a href="{{ post.get_absolute_url }}">{{ post.title }}</a>
 {% endfor %}
 </body>
 </html>
