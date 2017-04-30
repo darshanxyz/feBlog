@@ -1,0 +1,875 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"wor",
+				"word_list"
+			],
+			[
+				"acc",
+				"access_key"
+			],
+			[
+				"twee",
+				"tweets"
+			],
+			[
+				"string",
+				"stringstream"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"spl",
+				"split_list"
+			],
+			[
+				"f",
+				"folder"
+			],
+			[
+				"find",
+				"find_element_by_xpath"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"a",
+				"all_services"
+			],
+			[
+				"rend",
+				"render_to_response"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"auth",
+				"authenticate"
+			],
+			[
+				"form",
+				"form_class"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"ser",
+				"service_name"
+			],
+			[
+				"de",
+				"detail"
+			],
+			[
+				"al",
+				"all"
+			],
+			[
+				"User",
+				"UserDetail"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"all",
+				"all_users"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"anim",
+				"animate"
+			],
+			[
+				"scr",
+				"scrollTop"
+			],
+			[
+				"scroll",
+				"scroll_start"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"td",
+				"text-decoration"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"fo",
+				"forms"
+			],
+			[
+				"Sign",
+				"SignUpAdmin"
+			],
+			[
+				"Si",
+				"SignUp"
+			],
+			[
+				"ti",
+				"title	Tag"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"Re",
+				"Register"
+			],
+			[
+				"Reg",
+				"RegisterForm"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"S",
+				"SignUpAdmin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"Modal",
+				"Modal1"
+			],
+			[
+				"sign",
+				"sign-up-btn1"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"x",
+				"xx-large"
+			],
+			[
+				"hegi",
+				"max-height"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"pl",
+				"pl	println"
+			],
+			[
+				"heg",
+				"max-height"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"quer",
+				"querryset_list"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"slu",
+				"slug"
+			],
+			[
+				"pre",
+				"pre_save_post_receiver"
+			],
+			[
+				"sl",
+				"slug"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"page",
+				"page_request_var"
+			],
+			[
+				"object",
+				"object_list"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"pos",
+				"post_form"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"Post",
+				"PostForm"
+			],
+			[
+				"Pos",
+				"PostModelAdmin"
+			],
+			[
+				"c",
+				"com"
+			],
+			[
+				"i",
+				"iamcapuchinmonkey"
+			],
+			[
+				"lin",
+				"link"
+			],
+			[
+				"link",
+				"links"
+			],
+			[
+				"r",
+				"requests"
+			],
+			[
+				"sta",
+				"start_game"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"is",
+				"is_empty"
+			],
+			[
+				"prg",
+				"prog_u"
+			],
+			[
+				"_",
+				"__init__"
+			],
+			[
+				"pr",
+				"prog_u"
+			],
+			[
+				"prog",
+				"prog_u"
+			],
+			[
+				"le",
+				"letters_used"
+			],
+			[
+				"get",
+				"get_progress"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"the",
+				"the_word"
+			],
+			[
+				"righ",
+				"rightChild"
+			],
+			[
+				"has",
+				"hasRightChild"
+			],
+			[
+				"sim",
+				"simpleQueue"
+			],
+			[
+				"print",
+				"print_tree"
+			],
+			[
+				"ha",
+				"hasLeftChild"
+			],
+			[
+				"rig",
+				"rightChild"
+			],
+			[
+				"ri",
+				"rightChild"
+			],
+			[
+				"lef",
+				"leftChild"
+			],
+			[
+				"l",
+				"letter-spacing"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"post",
+				"post-1"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"nod",
+				"node2"
+			],
+			[
+				"N",
+				"None"
+			],
+			[
+				"No",
+				"Node"
+			],
+			[
+				"at",
+				"at_front"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"br",
+				"background-repeat"
+			],
+			[
+				"mag",
+				"margin-left"
+			],
+			[
+				"head",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/iamDarshan/Documents/Projects/Git/tests/geo.py",
+		"/Users/iamDarshan/AndroidStudioProjects/AlertDialog/app/src/main/java/com/darshanbshah/alertdialog/MainActivity.java",
+		"/Users/iamDarshan/Documents/Projects/Git/Tweet-opinion-and-popularity/tweet_analysis.py",
+		"/Users/iamDarshan/AndroidStudioProjects/Elementary/app/src/main/java/com/darshanbshah/elementary/MainActivity.java",
+		"/Users/iamDarshan/AndroidStudioProjects/FragTwo/app/src/main/java/com/darshanbshah/fragtwo/Frag1.java",
+		"/Users/iamDarshan/AndroidStudioProjects/FragTwo/app/src/main/java/com/darshanbshah/fragtwo/Frag2.java",
+		"/Users/iamDarshan/AndroidStudioProjects/FragTwo/app/src/main/java/com/darshanbshah/fragtwo/MainActivity.java",
+		"/Users/iamDarshan/Documents/iOS Projects/Elementary/Podfile",
+		"/Users/iamDarshan/Desktop/t.py",
+		"/Users/iamDarshan/Desktop/prime.py",
+		"/Users/iamDarshan/Documents/Projects/tweet_code.cpp",
+		"/Users/iamDarshan/Documents/Projects/Web/loader.html",
+		"/Users/iamDarshan/Documents/Projects/Web/main.css",
+		"/Users/iamDarshan/Web/portfolio/css/main.css",
+		"/Users/iamDarshan/Desktop/yt.py",
+		"/Users/iamDarshan/Documents/Projects/Web Scraping/aums_results.py",
+		"/Users/iamDarshan/Documents/Projects/rename.py",
+		"/Users/iamDarshan/Documents/Projects/kickstart_practice_A.cpp",
+		"/Users/iamDarshan/Documents/Projects/Web Scraping/results.py",
+		"/Users/iamDarshan/Code/Codeforces/c++/A110.cpp",
+		"/Users/iamDarshan/Desktop/AmritaPay/backend/models.py",
+		"/Users/iamDarshan/Desktop/rebound.min.js",
+		"/Users/iamDarshan/Desktop/demo.css",
+		"/Users/iamDarshan/Desktop/main.js",
+		"/Users/iamDarshan/Desktop/abc.html",
+		"/Users/iamDarshan/Desktop/a.html",
+		"/Users/iamDarshan/Documents/Projects/Web Scraping/fup.py",
+		"/Users/iamDarshan/Documents/Projects/Web Scraping/a.py",
+		"/Users/iamDarshan/Desktop/login.py",
+		"/Users/iamDarshan/Documents/Projects/Web Scraping/movie-release-notifier.py",
+		"/Users/iamDarshan/Web/portfolio/index.html",
+		"/Users/iamDarshan/Documents/Projects/Sem IV Project/Hangman/hangman.py",
+		"/Users/iamDarshan/f1.c",
+		"/Users/iamDarshan/Desktop/Web Project/css/style.css",
+		"/Users/iamDarshan/Desktop/dbmsProject/users/templates/users/givers.html",
+		"/Users/iamDarshan/Desktop/dbmsProject/users/templates/users/index.html",
+		"/Users/iamDarshan/Desktop/dbmsProject/users/templates/users/base.html",
+		"/Users/iamDarshan/Desktop/dbmsProject/users/views.py",
+		"/Users/iamDarshan/Desktop/project/signup_login/urls.py",
+		"/Users/iamDarshan/Desktop/dbmsProject/dbmsProject/settings.py",
+		"/Users/iamDarshan/Desktop/dbmsProject/users/models.py",
+		"/Users/iamDarshan/Desktop/dbmsProject/users/tests.py",
+		"/Users/iamDarshan/Desktop/dbmsProject/dbmsProject/urls.py",
+		"/Users/iamDarshan/Desktop/dbmsProject/users/templates/users/registration.html",
+		"/Users/iamDarshan/Desktop/dbmsProject/users/admin.py",
+		"/Users/iamDarshan/Desktop/dbmsProject/users/templates/users/profile.html",
+		"/Users/iamDarshan/Desktop/dbmsProject/users/templates/users/login.html",
+		"/Users/iamDarshan/Desktop/dbmsProject/users/templates/users/form-template.html",
+		"/Users/iamDarshan/Desktop/dbmsProject/users/urls.py",
+		"/Users/iamDarshan/Desktop/dbmsProject/users/forms.py",
+		"/Users/iamDarshan/Desktop/dbmsProject/users/templates/users/details.html",
+		"/Users/iamDarshan/Desktop/dbmsProject/dbmsProject/forms.py",
+		"/Users/iamDarshan/Desktop/dbmsProject/users/templates/users/userdetail_form.html",
+		"/Users/iamDarshan/Desktop/dbmsProject/users/static/users/style.css",
+		"/Users/iamDarshan/Desktop/T3B/src/templates/post_detail.html",
+		"/Users/iamDarshan/Desktop/dbmsProject/givers/models.py",
+		"/Users/iamDarshan/Desktop/dbmsProject/givers/views.py",
+		"/Users/iamDarshan/Desktop/dbmsProject/givers/urls.py",
+		"/Users/iamDarshan/Desktop/dbmsProject/services/urls.py",
+		"/Users/iamDarshan/Documents/Eclipse Projects/workspace/Practice/file.txt",
+		"/Users/iamDarshan/Desktop/Startup/src/templates/navbar.html",
+		"/Users/iamDarshan/Desktop/Startup/src/templates/base.html",
+		"/Users/iamDarshan/Desktop/Startup/src/templates/loggedin.html",
+		"/Users/iamDarshan/Desktop/Startup/src/startup/urls.py",
+		"/Users/iamDarshan/Desktop/Startup/src/templates/registration_form.html",
+		"/Users/iamDarshan/Desktop/Startup/src/landing_page/views.py",
+		"/Users/iamDarshan/Desktop/Startup/src/landing_page/forms.py",
+		"/Users/iamDarshan/Desktop/Startup/src/landing_page/admin.py",
+		"/Users/iamDarshan/Desktop/Startup/src/landing_page/models.py",
+		"/Users/iamDarshan/Desktop/Startup/src/startup/settings.py",
+		"/Users/iamDarshan/Desktop/Startup/src/templates/registration/registration_form.html",
+		"/Users/iamDarshan/Desktop/Startup/src/templates/landing_page.html",
+		"/Users/iamDarshan/Desktop/Startup/src/startup/views.py",
+		"/Users/iamDarshan/Desktop/Startup/src/templates/registration/activation_email.txt",
+		"/Users/iamDarshan/Desktop/Startup/src/templates/registration/activation_complete.html",
+		"/Users/iamDarshan/Desktop/Startup/src/templates/forms.html",
+		"/Users/iamDarshan/Documents/Projects/Web Scraping/spi_cinemas.py",
+		"/Users/iamDarshan/Desktop/cv_14/resume_cv.tex",
+		"/Users/iamDarshan/pipes.c",
+		"/Users/iamDarshan/Desktop/BubbleSort.java",
+		"/Users/iamDarshan/Desktop/Startup/src/templates/javascripts.html",
+		"/Users/iamDarshan/Desktop/Startup/src/templates/head_css.html",
+		"/Users/iamDarshan/Desktop/Startup/src/landing_page/templates/landing_page.html",
+		"/Users/iamDarshan/os.c",
+		"/Users/iamDarshan/os1.c",
+		"/Users/iamDarshan/Web/hoverfx/functions.js",
+		"/Users/iamDarshan/Code/bubblesort.py",
+		"/Users/iamDarshan/Code/bubblesort.c",
+		"/Users/iamDarshan/Desktop/Web Project/type.html",
+		"/Users/iamDarshan/Desktop/Web Project/signup.html",
+		"/Users/iamDarshan/Desktop/Web Project/index.html",
+		"/Volumes/GOWTHAM/java_prog.java",
+		"/Users/iamDarshan/Desktop/Web Project/css/base.css",
+		"/Users/iamDarshan/Desktop/TextInputEffects/index.html",
+		"/Users/iamDarshan/Desktop/TextInputEffects/css/set1.css",
+		"/Users/iamDarshan/Desktop/TextInputEffects/css/demo.css",
+		"/Users/iamDarshan/Web/profile/css/style.css",
+		"/Users/iamDarshan/Web/profile/index.html",
+		"/Users/iamDarshan/Desktop/T3B/src/templates/base.html",
+		"/Users/iamDarshan/Desktop/T3B/src/templates/messages_display.html",
+		"/Users/iamDarshan/Web/profile/style.css",
+		"/Users/iamDarshan/Code/Codeforces/string_task.py",
+		"/Users/iamDarshan/Desktop/cd",
+		"/Users/iamDarshan/Desktop/Java_Samp/sample.java",
+		"/Users/iamDarshan/Desktop/T3B/src/static/css/landing_page.css",
+		"/Users/iamDarshan/Desktop/T3B/src/templates/landing_page.html",
+		"/Users/iamDarshan/Desktop/T3B/static_cdn/admin/css/base.css",
+		"/Users/iamDarshan/Desktop/T3B/static_cdn/admin/css/login.css",
+		"/Users/iamDarshan/Desktop/T3B/src/templates/post_form.html",
+		"/Users/iamDarshan/Desktop/T3B/src/templates/css/main.css",
+		"/Users/iamDarshan/Desktop/T3B/src/templates/index.html",
+		"/Users/iamDarshan/Desktop/T3B/src/posts/views.py",
+		"/Users/iamDarshan/Desktop/T3B/src/posts/forms.py",
+		"/Users/iamDarshan/Desktop/T3B/src/posts/urls.py",
+		"/Users/iamDarshan/Desktop/T3B/src/The3Bloggers/urls.py",
+		"/Users/iamDarshan/Desktop/T3B/The3Bloggers/manage.py",
+		"/Users/iamDarshan/Desktop/Snake.py",
+		"/Users/iamDarshan/Documents/Projects/Web Scraping/mail.py",
+		"/Users/iamDarshan/Documents/Projects/Web Scraping/scrape.py",
+		"/Users/iamDarshan/Documents/Projects/speech.py",
+		"/Users/iamDarshan/Desktop/4199441-4631abaf71fa3bbafa279f66e2394c8fb96094b6/simplestack.py",
+		"/Users/iamDarshan/Desktop/4199441-4631abaf71fa3bbafa279f66e2394c8fb96094b6/hangman_1.py",
+		"/Users/iamDarshan/Documents/Projects/Sem IV Project/files.py",
+		"/Users/iamDarshan/Documents/Data Structures/Codes/palindrome.py",
+		"/Users/iamDarshan/Desktop/4199441-4631abaf71fa3bbafa279f66e2394c8fb96094b6/Hangman.py",
+		"/Users/iamDarshan/Documents/Data Structures/Codes/simplestack.py",
+		"/Users/iamDarshan/Documents/Data Structures/Codes/s_linkedlist.py",
+		"/Users/iamDarshan/Desktop/sample/simplequeue.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"vs",
+			"Storage",
+			"redirec",
+			"givers",
+			"Hello",
+			"padding-b",
+			"margin-bo",
+			"content",
+			"font-w",
+			"BACKGR",
+			"kuro",
+			"input-",
+			"input-7",
+			"color",
+			"kaede",
+			"disp",
+			"steps",
+			"link-braces",
+			";\n",
+			"querryset",
+			"contacts",
+			"img",
+			"game",
+			"human_",
+			"s.",
+			"codrops-demos",
+			"sphinx",
+			"google",
+			"recognize",
+			"_google",
+			"google",
+			"13",
+			"top",
+			"head",
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 175.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "feBlog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
