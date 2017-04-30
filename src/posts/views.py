@@ -21,8 +21,8 @@ def posts_delete(request):
 def posts_update(request):
 	return HttpResponse("<h1>Update!</h1>")
 
-def post_detail(request):
-	post = get_object_or_404(Post, id = 1)
+def post_detail(request, id):
+	post = get_object_or_404(Post, id = id)
 	context = {
 		'post': post,
 		'title': post.title,
