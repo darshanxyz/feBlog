@@ -9,9 +9,37 @@ a:hover {
 
 .navbar-header {
 	font-size: 40px;
+	font-family: 'Avenir';
 }
 
 .thumbnail img {
 	max-height: 300px;
 	width: 560px;
+}
+
+.article-title, .page-title {
+	font-family: 'Avenir';
+	font-size: 50px;
+}
+
+.article-title-small {
+	font-family: 'Avenir';
+	font-size: 30px;
+}
+
+.article-title-xsmall {
+	font-family: 'Avenir';
+	font-size: 15px;
+}
+
+.article-content {
+	font-family: 'Avenir';
+	font-weight: normal;
+	font-size: 20px;
+}
+
+.article-content-small {
+	font-family: 'Avenir';
+	font-weight: normal;
+	font-size: 15px;
 }

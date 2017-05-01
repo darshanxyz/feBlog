@@ -33,7 +33,7 @@ def posts_delete(request, id):
 
 def posts_update(request, id):
 	post = get_object_or_404(Post, id = id)
-	form = PostForm(request.POST or None, instance = post)
+	form = PostForm(request.POST or None, request.FILES or None, instance = post)
 	if form.is_valid():
 		instance = form.save(commit = False)
 		instance.save()
