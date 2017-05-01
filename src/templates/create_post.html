@@ -1,10 +1,12 @@
 {% extends 'base.html' %}
 {{ block.super }}
 {% block content %}
+	<div class="col-sm-6 col-sm-offset-3">
 	<h1>Create Post</h1>
 	<form method="POST" action="">
 		{% csrf_token %}
 		{{ form.as_p }}
 		<input type="submit" value="Create" name="">
 	</form>
+	</div>
 {% endblock content %}

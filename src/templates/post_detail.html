@@ -2,6 +2,7 @@
 {{ block.super }}
 {% block title %}{{ block.super }} | {{ title }}{% endblock title %}
 {% block content %}
-<h1>{{ title }}</h1>
-	<p>{{ post.content }}</p>
+	<h1>{{ title }}</h1> 
+	<small>{{ post.posted }}</small>
+	<p>{{ post.content | linebreaks }}</p>
 {% endblock content %}

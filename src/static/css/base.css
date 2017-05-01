@@ -1,3 +1,16 @@
-h1 {
+nav h1 {
 	color: #12bfac;
+}
+
+h1 {
+	color: #777777;
+}
+
+a {
+	color: #12bfac;
+	text-decoration: none !important;
+}
+
+a:hover {
+	color: #777777;
 }
