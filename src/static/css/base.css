@@ -1,11 +1,3 @@
-nav h1 {
-	color: #12bfac;
-}
-
-h1 {
-	color: #777777;
-}
-
 a {
 	color: #12bfac;
 	text-decoration: none !important;
@@ -13,4 +5,13 @@ a {
 
 a:hover {
 	color: #777777;
+}
+
+.navbar-header {
+	font-size: 40px;
+}
+
+.thumbnail img {
+	max-height: 300px;
+	width: 560px;
 }

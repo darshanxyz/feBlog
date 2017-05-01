@@ -7,4 +7,4 @@ class PostForm(forms.ModelForm):
 		widgets = {
           'content': forms.Textarea(attrs={'rows':20, 'cols':100}),
         }
-		fields = ['title', 'content']
+		fields = ['title', 'content', 'image']

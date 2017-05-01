@@ -15,7 +15,7 @@ def posts_display(request):
 	return render(request, 'post_display.html', context)
 
 def posts_create(request):
-	form = PostForm(request.POST or None)
+	form = PostForm(request.POST or None, request.FILES or None)
 	if form.is_valid():
 		form_instance = form.save(commit = False)
 		form_instance.save()

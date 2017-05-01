@@ -2,7 +2,10 @@
 {{ block.super }}
 {% block title %}{{ block.super }} | {{ title }}{% endblock title %}
 {% block content %}
-	<h1>{{ title }}</h1> 
-	<small>{{ post.posted }}</small>
-	<p>{{ post.content | linebreaks }}</p>
+	<div class="col-sm-10 col-sm-offset-1">
+		<img src="{{ post.image.url }}" class="img-responsive">
+		<h1>{{ title }}</h1> 
+		<div class="small">{{ post.posted }}</div><br/>
+		<p>{{ post.content | safe | linebreaks}}</p>
+	</div>
 {% endblock content %}
